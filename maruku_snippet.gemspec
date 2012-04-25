@@ -1,5 +1,5 @@
-
 # -*- encoding: utf-8 -*-
+
 $:.push File.expand_path("../lib")
 require 'maruku_snippet'
 
@@ -8,7 +8,7 @@ s.name        = 'maruku_snippet'
 s.version     = MaRuKuSnippet::VERSION
 s.platform    = Gem::Platform::RUBY
 s.authors     = ["Morgan Prior"]
-s.email       = ["morgan@amaras-tech.co.uk"]
+s.email       = ["maruku_snippet@amaras-tech.co.uk"]
 s.homepage    = "http://github.com/morganp/maruku-snippet"
 s.summary     = %q{Just like Maruku but with snippets }
 s.description = %q{maruku_snippet adds the to_html_snippet(lines) method.
